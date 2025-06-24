@@ -1,0 +1,28 @@
+# 🛡️ Task 2: Web Application Penetration Testing
+
+## 🧪 Objective
+Perform penetration testing on a vulnerable web application to detect OWASP Top 10 vulnerabilities.
+
+## ✅ Steps Performed
+
+1. **Setup**: Deployed DVWA and bWAPP in a local LAMP environment.
+2. **Automated Scanning**: Used Burp Suite and OWASP ZAP.
+3. **Manual Testing**:
+   - SQL Injection
+   - Cross-Site Scripting (XSS)
+   - Cross-Site Request Forgery (CSRF)
+
+## 🛠 Tools Used
+- Burp Suite
+- OWASP ZAP
+- Metasploit (for exploit testing)
+
+## 📄 Files Included
+- `Payloads/xss_payloads.txt`: Sample injection payloads
+- `BurpSuite_Reports/burp_scan.html`: Vulnerability scan report
+- `Screenshots/`: Screenshots of exploited vulnerabilities
+
+## 🧯 Recommendations
+- Sanitize user input
+- Implement CSRF tokens
+- Use parameterized queries
