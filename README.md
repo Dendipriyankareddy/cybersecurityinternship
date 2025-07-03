@@ -78,6 +78,6 @@ This internship involved performing comprehensive security assessments across mu
 
 ## 📧 Contact
 
-**Charan Kairoju**  
+**Dendi Priyanka Reddy**  
 📍 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/charankairoju)
+🔗 [LinkedIn](https://www.linkedin.com/in/dendi-priyanka-reddy-102974270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
